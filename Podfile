@@ -7,7 +7,7 @@ target 'MyApp' do
   use_frameworks!
 
   # Pods for BuildContainer
-  pod 'RxSwift', '~> 3.0'
+  pod 'RxSwift', '~> 4.1.2'
 
 end
 
